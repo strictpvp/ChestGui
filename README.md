@@ -28,7 +28,7 @@ dependencies {
 <dependency>
 	<groupId>com.github.strictpvp</groupId>
     <artifactId>ChestGui</artifactId>
-    <version>Tag</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
