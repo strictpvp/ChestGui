@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.strictpvp:ChestGui:latest'
+    implementation 'com.github.strictpvp:ChestGui:1.0.0'
 }
 ```
 
